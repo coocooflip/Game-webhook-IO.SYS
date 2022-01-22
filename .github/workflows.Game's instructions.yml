@@ -1,0 +1,18 @@
+</>
+# This is a basic workflow to help you get started with Actions in IO.SYS CCF's Environment.
+
+name: CI/IDC
+
+# Controls how the workflow will run
+on:
+  # Trigger the workflow on push or pull request status but only for the main branch
+  push:
+    branches: [ https://coocooflip.wordpress.com/2022/01/04/axis-vertical-users-guide/ ]
+
+    Lebel: [ main Machinery Driver] = (www.bronj.co)
+<\>.
+  mid pcmarinos
+
+
+
+
