@@ -1,0 +1,15 @@
+JAVA_HOME 
+"bin":"mvn" = "PATH" 
+unzip apache-maven-3.8.4-bin.zip [wp.me/PbVCg8-4M] 
+echo %JAVA_HOME% 
+Pcmarinos\
+C:\Program Files\Java\jdk1.7.0_51 
+C:\Program Files\apache-maven-3.8.4\bin 
+C:\Program Files\Java\jdk1.7.0_51 
+echo $JAVA_HOME
+
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home
+
+Adding to PATH
+
+export PATH=/opt/apache-maven-3.8.4/bin:"$PATH€"
